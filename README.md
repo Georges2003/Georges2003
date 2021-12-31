@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Georges2003
 - 👀 I’m interested in computer engineering
-- 🌱 I’m currently learning english
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently enrolled in Bachelor of Science in Computer Engineering
+- 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me ...
 
 <!---
